@@ -2,6 +2,9 @@
 Sought and Found is a local cafe in Calgary, with their goal being to offer high quality coffee and teas.
 
 Our Homepage: https://www.soughtxfound.coffee/
+
+---
+
 ## Acquisition
 ### How do customers find you
   - Our customers can find us through our [Instagram page](https://www.instagram.com/sxfcoffee/?hl=en), our [website](https://www.soughtxfound.coffee/reservations) and our [Facebook page](https://www.facebook.com/sxfcoffee/). We can also be found at 916 Centre St N.
@@ -12,6 +15,8 @@ Our Homepage: https://www.soughtxfound.coffee/
 ### What is the Call-to-Action?
   - The Call-to-Action on our Instagram page would be our follow button. The Call-to-Action on our website would be the [shopping bag icon](https://www.soughtxfound.coffee/) at the very right of our navigation menu.
 
+---
+
 ## Activation
 ### How do they get a customer to care?
   - To get customers to care about their coffee/tea we offer [coffee tasting events](https://www.instagram.com/p/CMqL2XChW86/?igshid=17sfc4cfi1b9b). This only requires you to book a table on our website and to show up! We show you how to create three different coffees with the same coffee bean.
@@ -19,6 +24,8 @@ Our Homepage: https://www.soughtxfound.coffee/
   - When customers start to care about their coffee, they will look towards our subscription boxes or just shop for their preferred coffee bean through our [website](https://www.soughtxfound.coffee/shop).
 ### How would this be measured?
   - The success of the events can be measured by the amount of likes, comments, follower growth and clicks per post. The success of selling subscription boxes/coffee bags can be compared to our average selling rate to the time after the event. The [Kissmetrics](https://neilpatel.com/) tool can be used to track customer data.
+
+---
 
 ## Retention
 ### How is a returning customer defined?
@@ -28,13 +35,17 @@ Our Homepage: https://www.soughtxfound.coffee/
 ### How are one-time customers followed up on?
   - One time customers can be followed up by offering them to subscribe to our mailing list so they can be updated on our promotions and products. This can be done over email or more preferably phone number so if there are any questions the customer has we can reply faster and more efficiently. Another method to keep a good relationship with any customer is to do it right from the start, we will also offer a customer comment card "service" (if they would like to participate) to let us know what we can improve on and what they enjoyed about our services. [This article](https://restaurantengine.com/deliver-excellent-customer-service/) was very helpful. 
 
+---
+
 ## Referral
 ### How can customers become advocates?
-  - 
+  - Customers can become an advocate by writing a review on Google reviews or write a comment/post a story on our Instagram page. To encourage these actions to happen more frequently, and to gather more advocates we can reward them with a discount for the next time they stop by our cafe. We will also offer a donation program for our business to help support the cafe. [This article](https://www.candybar.co/blog/customer-advocacy/) was helpful.
 ### How many are advocates?
-  - 
+  - Our advocates can be measured by the amount of (good) comments and stories posted on our Instagram page. They can also be measured through Google reviews.
 ### How is/can this be measured?
-  - 
+  - Our advocates can be measured by the amount of (good) comments and stories posted on our Instagram page. They can also be measured through Google reviews.
+
+---
 
 ## Revenue 
 ### How is revenue generated?
