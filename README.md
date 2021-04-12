@@ -39,9 +39,9 @@ Our Homepage: https://www.soughtxfound.coffee/
 
 ## Referral
 ### How can customers become advocates?
-  - Customers can become an advocate by writing a review on Google reviews or write a comment/post a story on our Instagram page. To encourage these actions to happen more frequently, and to gather more advocates we can reward them with a discount for the next time they stop by our cafe. We will also offer a donation program for our business to help support the cafe. [This article](https://www.candybar.co/blog/customer-advocacy/) was helpful.
+  - Customers can become an advocate by writing a review on Google reviews or write a comment/post a story/follow our Instagram page. To encourage these actions to happen more frequently, and to gather more advocates we can reward them with a discount for the next time they stop by our cafe. We will also offer a donation program for our business to help support the cafe. [This article](https://www.candybar.co/blog/customer-advocacy/) was helpful.
 ### How many are advocates?
-  - Our advocates can be measured by the amount of (good) comments and stories posted on our Instagram page. They can also be measured through Google reviews.
+  - We can count our advocates through our Instagram page, the amount that follow us and the amount that post us on their own page or on their story. We currently have 3,520 followers.
 ### How is/can this be measured?
   - Our advocates can be measured by the amount of (good) comments and stories posted on our Instagram page. They can also be measured through Google reviews.
 
